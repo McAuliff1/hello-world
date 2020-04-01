@@ -1,1 +1,2 @@
 Just a test, really nothing more.
+Here is an addition to the test.
